@@ -1,0 +1,15 @@
+{
+  "name": "image-processing",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "glfw3",
+    {
+      "name": "imgui",
+      "features": [
+        "glfw-binding",
+        "opengl3-binding"
+      ]
+    }
+  ],
+  "builtin-baseline": "4df3365fcbb4795a44795883f8719bbb3b3bcd77"
+}
